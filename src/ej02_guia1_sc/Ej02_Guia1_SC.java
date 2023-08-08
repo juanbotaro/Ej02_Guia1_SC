@@ -8,6 +8,7 @@ public class Ej02_Guia1_SC {
         System.out.println("hola soy Claudio");
         System.out.println("hola soy Gabriela");
 //        hola soy hernan estoy modificadondo desde la web
+        System.out.println("Hola, soy Martin");
     }
     
 }
